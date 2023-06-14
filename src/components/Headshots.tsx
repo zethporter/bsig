@@ -15,8 +15,8 @@ const Headshots = () => {
       </div>
       <div>
         <p className="mx-auto w-2/3 text-center text-xl sm:w-1/4">
-          From young prebubescent boy. To grown man, he's always kept his skin
-          top notch for his headshots.
+          From young prebubescent boy. To grown man, he&apos;s always kept his
+          skin top notch for his headshots.
         </p>
       </div>
     </div>
